@@ -1,2 +1,2 @@
-# beacon-phoenix
-FT's beacon dashboard, reborn. 
+# next-beacon-phoenix
+FT's next-beacon-dashboard, reborn. 
